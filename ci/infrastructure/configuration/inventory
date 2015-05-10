@@ -1,0 +1,8 @@
+[ci-master]
+52.17.110.217
+
+[ci-slave]
+52.16.12.33
+
+[ci-slave:vars]
+ci_master_private_ip=10.0.0.38
